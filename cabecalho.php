@@ -1,5 +1,5 @@
 <?php
-include "bootstrap.html";
+include "bootstrap.php";
 include "menu.php";
 
 ?>
