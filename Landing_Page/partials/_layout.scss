@@ -1,3 +1,17 @@
 .container{
-    max-width: 1440px;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+// bg home
+
+.bg-home{
+    position: relative;
+}
+
+.bg-home::before{
+    content: '';
+    display: block;
+    position: absolute;
+    
 }
