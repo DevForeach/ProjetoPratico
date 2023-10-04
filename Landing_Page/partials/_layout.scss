@@ -9,17 +9,20 @@
     position: relative;
 }
 
-.bg-home::before{
-    content: '';
-    display: block;
-    position: absolute;
-    background-image: linear-gradient(to bottom, rgba(72, 50, 133,0.1), #400073), url("../assets/bcg.png");
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    background-size: cover;
-    background-repeat: no-repeat;
-    opacity: 0.9;
-}
+// .bg-home::before{
+//     content: '';
+//     display: block;
+//     position: absolute;
+//     background-image: linear-gradient(to bottom, rgba(72, 50, 133,0.1), #400073), url("../assets/bcg.png");
+//     left: 0;
+//     top: 0;
+//     width: 100%;
+//     height: 100%;
+//     z-index: -1;
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     opacity: 0.9;
+// }
+
+        /* ------------------------------------------------------------ */
+        /* ------------------------- HERO ----------------------------- */
